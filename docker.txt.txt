@@ -1,0 +1,4 @@
+create ec2 instance
+install docker
+install jenkins
+Build pipeline
